@@ -1,0 +1,82 @@
+<mxfile host="65bd71144e">
+    <diagram id="GC4fPbRbZgjh6rGIUXVM" name="basics">
+        <mxGraphModel dx="1872" dy="1316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=flexArrow;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="100" y="1620" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="Start here" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="-10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="105" y="100" width="300" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;shape=link;" edge="1" parent="15" source="8">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint y="30" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="It has three main concepts - &lt;font color=&quot;#00cc66&quot;&gt;&lt;b&gt;Layout&lt;/b&gt;&lt;/font&gt;, &lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;Styles&lt;/font&gt;&lt;/b&gt; and&lt;b&gt; &lt;font color=&quot;#0000ff&quot;&gt;Interactivity&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="15">
+                    <mxGeometry x="70" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="105" y="290" width="300" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;shape=link;" edge="1" parent="16" source="18">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint y="30" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="Web pages are hosted by a server - static or live" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="16">
+                    <mxGeometry x="71" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="105" y="370" width="300" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;shape=link;" edge="1" parent="19" source="21">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint y="30" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="Your web page can be used by all types of persons - so &lt;font color=&quot;#ff3399&quot;&gt;&lt;b&gt;accessibility&lt;/b&gt;&lt;/font&gt; is important" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="19">
+                    <mxGeometry x="71" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="HTML is for layout" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="595" y="100" width="285" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;curved=1;html=1;" edge="1" parent="1" source="8" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=orthogonalEdgeStyle;shape=link;curved=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8" target="25">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="CSS is for styling" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+                    <mxGeometry x="595" y="30" width="285" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="JavaScript is for interactive functionality in the web page" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="595" y="170" width="285" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="105" y="450" width="300" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;shape=link;" edge="1" parent="27" source="29">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint y="30" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="Your web page can be used by all types of persons - so accessibility is important" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="27">
+                    <mxGeometry x="71" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=orthogonalEdgeStyle;shape=link;curved=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;" edge="1" parent="1" source="8" target="26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
